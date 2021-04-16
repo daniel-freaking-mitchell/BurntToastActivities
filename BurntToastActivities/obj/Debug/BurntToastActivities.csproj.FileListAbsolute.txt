@@ -1,0 +1,8 @@
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\obj\Debug\BurntToastActivities.csprojAssemblyReference.cache
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\obj\Debug\BurntToastActivities.csproj.CoreCompileInputs.cache
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\bin\Debug\BurntToastActivities.dll
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\bin\Debug\BurntToastActivities.pdb
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\bin\Debug\System.Management.Automation.dll
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\obj\Debug\BurntToastActivities.csproj.CopyComplete
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\obj\Debug\BurntToastActivities.dll
+\\masterserver\dept\RPA\mitd\customActivitiesDevelopment\BurntToastActivities\BurntToastActivities\obj\Debug\BurntToastActivities.pdb
